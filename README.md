@@ -8,9 +8,9 @@ This is a solution to the [Contact form main](https://www.frontendmentor.io/chal
 ## 🌐 Links
 
 ### 🚀 Solution
-- Solution URL: [here](https://www.frontendmentor.io/solutions/ping-coming-soon-react-ts-6rmMv7ZzBT)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/contact-form-main-react-ts-IWREpMXybX)
 ### 🔗 Live Demo
-- Live Site URL: [here](https://ping-coming-soon-peach.vercel.app/)
+- Live Site URL: [here](https://contact-form-six-teal.vercel.app/)
 
 
 ## 🛠️ Built With
