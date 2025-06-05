@@ -1,0 +1,30 @@
+:root {
+  --bg-color-green-200: hsl(148, 38%, 91%);
+  
+  --ft-family: 'Karla', sans-serif;
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.container {
+  background-color: var(--bg-color-green-200);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100dvh;
+  font-family: var(--ft-family);
+}
+
+
+@media (max-width: 768px) {
+  .container {
+    padding: 20px;
+  }
+}

@@ -1,0 +1,26 @@
+.custom-toast {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  background-color: var(--bg-color-green-900);
+  color: var(--text-color-white);
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.custom-toast .status {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  gap: 10px;
+}
+
+.status span {
+  color: var(--text-color-white);
+}
+
+.custom-toast p {
+  font-size: 12px;
+  color: var(--text-color-500);
+}
