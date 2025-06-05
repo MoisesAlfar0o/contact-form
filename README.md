@@ -1,4 +1,4 @@
-# -  📩 Contact form main
+# 📩 Contact form main
 
 This is a solution to the [Contact form main](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0). 
 
@@ -7,9 +7,9 @@ This is a solution to the [Contact form main](https://www.frontendmentor.io/chal
 
 ## Links
 
-# Solution
+### Solution
 - Solution URL: [here](https://www.frontendmentor.io/solutions/ping-coming-soon-react-ts-6rmMv7ZzBT)
-#🚀 Live Demo
+### 🚀 Live Demo
 - Live Site URL: [here](https://ping-coming-soon-peach.vercel.app/)
 
 
@@ -18,7 +18,7 @@ This is a solution to the [Contact form main](https://www.frontendmentor.io/chal
 - [React](https://reactjs.org/)
 
 
-##🎯 Key Features
+## 🎯 Key Features
 
 - ✅ Real-time email validation with clear error messages
 - 📱 Fully responsive layout (mobile-first approach)
