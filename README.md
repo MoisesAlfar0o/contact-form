@@ -2,21 +2,23 @@
 
 This is a solution to the [Contact form main](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0). 
 
-##📸 Screenshot
+## 📸 Screenshot
 ![Design preview for the Contact form main](./src/assets/design/desktop-design.jpg)
 
-## Links
+## 🌐 Links
 
-### Solution
+### 🚀 Solution
 - Solution URL: [here](https://www.frontendmentor.io/solutions/ping-coming-soon-react-ts-6rmMv7ZzBT)
-### 🚀 Live Demo
+### 🔗 Live Demo
 - Live Site URL: [here](https://ping-coming-soon-peach.vercel.app/)
 
 
 ## 🛠️ Built With
 
 - [React](https://reactjs.org/)
-
+- 🟦 TypeScript — Static typing for better developer experience
+- 🔄 React Hook Form — Form state management and validation
+- 🔔 Sonner — For toast notifications
 
 ## 🎯 Key Features
 
