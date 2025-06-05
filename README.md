@@ -16,7 +16,7 @@ This is a solution to the [Contact form main](https://www.frontendmentor.io/chal
 ## 🛠️ Built With
 
 - [React](https://reactjs.org/)
-- 🟦 TypeScript — Static typing for better developer experience
+- 🟦 TypeScript
 - 🔄 React Hook Form — Form state management and validation
 - 🔔 Sonner — For toast notifications
 
