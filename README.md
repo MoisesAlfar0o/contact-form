@@ -1,6 +1,6 @@
 # 📩 Contact form main
 
-This is a solution to the [Contact form main](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj)]
+This is a solution to the [Contact form main](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj)
 
 ## 📸 Screenshot
 ![Design preview for the Contact form main](./src/assets/design/desktop-design.jpg)
